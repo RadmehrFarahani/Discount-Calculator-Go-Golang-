@@ -1,4 +1,3 @@
-# Profit-Calculator-Go-Golang-
 # Go Discount Calculator
 
 This is my first project in the Go programming language.
